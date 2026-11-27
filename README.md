@@ -1,4 +1,4 @@
-# Does an LLM Agent Add Decision Value over a Calibrated Cost Rule?
+﻿# Does an LLM Agent Add Decision Value over a Calibrated Cost Rule?
 
 Code for the paper "Does an LLM Agent Add Decision Value over a Calibrated Cost Rule? A Controlled Test for Predictive Maintenance".
 
@@ -115,6 +115,10 @@ make_figures_paper2.py  figures for the paper
 .env.example            configuration template (copy to .env)
 ```
 
-## Citation and license
+## Citation
 
-The citation and the license will be added after publication.
+If you use this code, please cite the paper (reference to be added after publication).
+
+## Contact
+
+Loubna Chalkhane, ENSAM Casablanca and University of Cordoba.
